@@ -1,0 +1,15 @@
+i:hover {
+  cursor: pointer;
+  transform: translate(-2px,-2px);
+}
+
+i {
+  font-size: 30px;
+  color: #AAAAAA;
+}
+
+/* test */
+/* .modal-content {
+  outline: 2px solid red;
+} */
+
